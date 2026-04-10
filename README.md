@@ -1,11 +1,6 @@
 # ATtiny-DCC-Accessory-Decoder
 A compact DCC accessory decoder for ATtiny85 (45-25) driving servos for signals and turnouts.
 
-Avec plaisir 👍
-Je te propose un **README prêt à publier**, clair, structuré et orienté GitHub. Tu peux le copier/coller tel quel et l’adapter si besoin.
-
----
-
 # 🚂 ATtiny-DCC-Accessory-Decoder
 
 **A compact DCC accessory decoder for ATtiny85 driving servos (signals, turnouts).**
